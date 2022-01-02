@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gras-chen
-- 👀 I’m interested in yoga and photography. 
+- 💻 I'm a frontend engineer
+- 👀 I’m interested in yoga and photography
 - 🌱 I’m currently learning React, also doing some side project
 - 📫 How to reach me : luyichen19970501@gmail.com
 
